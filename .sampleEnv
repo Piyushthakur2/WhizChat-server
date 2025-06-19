@@ -1,0 +1,15 @@
+
+MONGO_URI = mongodb+srv://whizchat:1234567890@cluster0.wck8qrs.mongodb.net/
+
+JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
+
+ADMIN_SECRET_KEY=secretkey
+
+NODE_ENV = DEVELOPMENT
+
+CLIENT_URL = frontend url
+
+
+CLOUDINARY_CLOUD_NAME= djewrub2k
+CLOUDINARY_API_KEY = 617114927747319
+CLOUDINARY_API_SECRET =  SpVGgHLqutdxMWVD7cDBjV4N764
